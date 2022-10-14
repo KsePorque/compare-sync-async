@@ -8,3 +8,5 @@ Sync: ~100 seconds <br>
 Async: ~25 seconds 
 
 ## POST requests (amount: 100 requests)
+Sync: ~65 seconds 
+Async: ~25 seconds
