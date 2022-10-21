@@ -2,6 +2,9 @@
 The idea of this project is to perform tests to compare the speed for sync and async requests.
 I perform test using my own API for managing wines collections, developed as a part of Portfolio project: http://kseporque.pythonanywhere.com/ 
 
+<br><br>
+<strong>Libraries:</strong> aiohttp, asyncio, requests
+
 # Project files
 * To send GET-requests (sync/async): receive_data_api.py 
 * To send POST-requests (sync/async): post_data_api.py 
